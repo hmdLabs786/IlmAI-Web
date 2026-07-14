@@ -12,16 +12,11 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "IlmAI — AI-Powered Board Exam Prep for Pakistani Students",
-  description:
-    "Master your board exams with IlmAI. AI chat assistant, snap & solve, smart flashcards, practice tests, and more — built for Pakistani high school & college students.",
-  keywords: [
-    "IlmAI", "board exam prep", "BSEK", "BIEK", "Karachi board",
-    "AI tutor", "Pakistani students", "exam preparation",
-  ],
+  description: "Master your board exams with IlmAI. AI chat, snap & solve, flashcards, practice tests, and more — built for Pakistani students.",
+  keywords: ["IlmAI", "board exam prep", "BSEK", "BIEK", "Karachi board", "AI tutor", "Pakistani students"],
   openGraph: {
     title: "IlmAI — AI-Powered Board Exam Prep",
-    description:
-      "Master your board exams with IlmAI — AI chat, snap & solve, flashcards, tests & more for Pakistani students.",
+    description: "Master your board exams with IlmAI — AI chat, snap & solve, flashcards, tests & more for Pakistani students.",
     type: "website",
   },
 };
